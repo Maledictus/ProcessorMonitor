@@ -1,0 +1,6 @@
+{
+		"quarkName": "ProcessorMonitor",
+		"description": "Quark for monitor processor's load",
+		"icon": "office-chart-bar",
+		"areas": [ "panel" ]
+}

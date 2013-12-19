@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+		<page>
+				<label value="Behavior" />
+				<groupbox>
+						<label value="" />
+						<item type="spinbox" property="UpdateCpuLoadInterval" default="2" minimum="1" maximum="600">
+								<label value="Update interval:" />
+								<suffix value=" sec" />
+						</item>
+				</groupbox>
+		</page>
+</settings>

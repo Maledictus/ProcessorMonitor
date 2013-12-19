@@ -24,7 +24,7 @@ Item
 	Timer
 	{
 		id: updateTimer
-		interval: 2000
+		interval: UpdateCpuLoadInterval * 1000
 		repeat: true
 		running: true
 		triggeredOnStart: true
